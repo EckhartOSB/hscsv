@@ -1,0 +1,5 @@
+Unquoted string,1234.5, hello, "hello world" ,"hello, world"
+"Line two",456, second, hi there, "A much longer quoted string"
+Line three has two empty fields,,
+"Line with only one cell (next one is empty)"
+
